@@ -1,3 +1,3 @@
 # PythonJourney
 
-This repository has my 
+This repository has my python creations 
