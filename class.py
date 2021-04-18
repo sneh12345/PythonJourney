@@ -1,10 +1,10 @@
 def multiplyFunc(a, b):
 	return a * b
 
-das = int(("What number would you like to multiply?"))
-dsa = int(("What second number would you like to multiply?"))
+das = int(input("What number would you like to multiply?"))
+dsa = int(input("What second number would you like to multiply?"))
 
-print(multiplyFunc(1, 2))
+print(multiplyFunc(das, dsa))
 
 
 

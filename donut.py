@@ -64,22 +64,4 @@ if __name__ == "__main__":
         A += theta_spacing
         B += phi_spacing
         print("\x1b[H")  # Clear screen, emulator mode
-        pprint(render_frame(A, B))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+        print(render_frame(A, B))

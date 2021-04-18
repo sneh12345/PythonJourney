@@ -1,4 +1,4 @@
-test_list = [2, 421493803948032967598756984579684756]
+test_list = [2, 3, 6, 7, 8, 9 ,10]
 print("The Original list:", test_list)
 res = [
     ele for ele in range(
